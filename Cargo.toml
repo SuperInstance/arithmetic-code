@@ -1,0 +1,9 @@
+[package]
+name = "arithmetic-code"
+version = "0.1.0"
+edition = "2021"
+description = "Arithmetic coding encoder/decoder with adaptive frequency models, range encoding, and binary arithmetic coding for near-optimal compression"
+license = "MIT"
+repository = "https://github.com/SuperInstance/arithmetic-code"
+keywords = ["arithmetic", "coding", "compression", "entropy", "range-coding"]
+categories = ["algorithms", "compression"]
